@@ -1,2 +1,2 @@
 # valexander600-
-<img src="banner.png" alt="Banner" style="width:100%;" /> 
+![banner](https://github.com/user-attachments/assets/3725f67e-3904-4186-9cce-313cff978b25)
